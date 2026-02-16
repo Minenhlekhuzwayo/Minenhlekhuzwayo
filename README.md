@@ -4,19 +4,21 @@ My name is Minenhle Khuzwayo, a computer science student currently enrolled in B
 
 ## B. Education 
 Degree                                         Institution                                   Date
-- BSc (Hons) in Computer Science               University of the Western Cape                Feb 2026 - Present
+- BSc (Hons) in Computer Science |             University of the Western Cape |                Feb 2026 - Present
 
-- BSc Computer Science                         University of the Western Cape                Feb 2022 - Nov 2025
+- BSc Computer Science |                         University of the Western Cape |                Feb 2022 - Nov 2025
 
 
 ## C. Skills & Interests
   Skills:
     - Technical Skills:
            * Programming in Python, Java, SQL, HTML, CSS
+           
     - Soft Skills:
            * Time management
            * Teamwork
            * Communication
+           
   Academic or professional interests:
     - I have a strong interest in Machine Learning and Artificial intelligence, particularly in developing intelligence systems for detection, classification, and decision making applications
 
