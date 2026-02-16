@@ -25,9 +25,6 @@ Degree                                         Institution                      
   In 2025, I developed an AI chatbot for the Community Health Services (CHS) workers at the University of the Western Cape (UWC) to address challenges related to the low uptake of PrEP and PEP medication. Healthcare workers expressed concern about the limited number of patients accessing these preventative treatments. To better understand the needs of both CHS staff and patients, I conducted interviews with representatives from both groups. The findings revealed that many patients lacked a clear understanding of what PrEP and PEP are, the differences between them, and their importance in HIV prevention. The chatbot was designed as an educational platform to provide accurate information, answer common questions, and help reduce stigma associated with these medications.
 
 
-## Socials
-LinkedIn: www.linkedin.com/in/minenhle-khuzwayo-1020a22a5
-
 ## E.  Publications
   No publications yet
 
