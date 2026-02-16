@@ -32,7 +32,7 @@ Degree                                         Institution                      
 
 
 ## F Affilliations and memberships
-  Women in Computer Science (WICS) - member
+  Women in Computer Science (WICS) - member | 
   UWC IT Society -member
 
 ## Socials
