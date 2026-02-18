@@ -1,4 +1,4 @@
-## A. : tada: Personal Introduction
+## A. Personal Introduction
 My name is Minenhle Khuzwayo, a computer science student currently enrolled in BSc (Hons) in Computer Science, and an aspiaring Machine Learning Engineer. 
 
 
